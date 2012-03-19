@@ -13,6 +13,7 @@
 				<input type="submit" />
 			</form>
 		</p>
-		Stat : <a href="http://dlun.ch/stat.php">http://dlun.ch/stat.php</a>
+		<p>Stat : <a href="http://dlun.ch/stat.php">http://dlun.ch/stat.php</a></p>
+		<p>Source : <a href="https://bitbucket.org/dlunch/dlun.ch">https://bitbucket.org/dlunch/dlun.ch</a></p>
 	</body>
 </html>
